@@ -1,12 +1,12 @@
 # Welcome to the Anonymous Credentials Meeting!
 
 
-Find me in [github](https://github.com/claucece/Anonymous-Credentials-Meeting)!
+Find me on [github](https://github.com/claucece/Anonymous-Credentials-Meeting)!
 
 This is an informal meeting to be held at [Real World Crypto 2021](https://rwc.iacr.org/2021/).
 
 What is an informal meeting? It is a far-less planned meeting where people interested
-in the topic come to gather and discuss ideas!
+in the topic come together and discuss ideas!
 
 What is the topic? The topic is Anonymous Credentials, a construction that
 tries to solve the problem of needing to propagate trust signals while protecting
