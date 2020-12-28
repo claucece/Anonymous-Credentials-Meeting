@@ -18,7 +18,7 @@ organized by Steven Galbraith.
 
 # Information
 
-The event will be entirely virtual.
+The event will be entirely virtual, over Zoom.
 
 The meeting will happen for at least 30 min but can go for as long as wanted.
 
@@ -36,7 +36,8 @@ There is no schedule set up in stone, but the main ideas to discuss are:
 ## How to Register
 
 We have no idea how much demand there will be, so get in touch with us, if you
-want to participate.
+want to participate (please, ping Sofía over twitter or email -her contact can
+be found [here](https://claucece.github.io/contact/)-).
 
 Participation is free; but you must read and abide by the [SNAPL Friendly Environment Policy](https://snapl.org/2015/policy.html).
 
@@ -58,5 +59,5 @@ This isn't a place for people to be exclusionary or for harassment.
 
 # Organizers
 
-* Sofía Celi
-* Chris Wood
+* [Sofía Celi](https://claucece.github.io/)
+* [Chris Wood](https://chris-wood.github.io/)
