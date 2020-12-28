@@ -29,7 +29,7 @@ There is no schedule set up in stone, but the main ideas to discuss are:
 * Privacy Pass: its status and related ideas
 * Other use cases for anonymous credentials
 * Adding metadata to anonymous credentials
-* External verifiability of anonymous credentials.
+* External verifiability of anonymous credentials
 
 # Registration
 
