@@ -18,7 +18,9 @@ organized by Steven Galbraith.
 
 # Information
 
-The event will happen on Friday, 15th, at 16.00 CET (10.00 EST).
+The event will happen on Friday, 15th, at 16.00 CET (10.00 EST), just prior to
+the day's agenda of RWC2021.
+
 The event will be entirely virtual, over Zoom. The zoom link will be posted here.
 
 The meeting will happen for an hour.
