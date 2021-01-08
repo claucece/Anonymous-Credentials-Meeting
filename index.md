@@ -18,18 +18,18 @@ organized by Steven Galbraith.
 
 # Information
 
-The event will be entirely virtual, over Zoom.
+The event will happen on Friday, 15th, at 16.00 CET (10.00 EST).
+The event will be entirely virtual, over Zoom. The zoom link will be posted here.
 
-The meeting will happen for at least 30 min but can go for as long as wanted.
+The meeting will happen for an hour.
 
 ## Schedule
 
-There is no schedule set up in stone, but the main ideas to discuss are:
+The agenda will look like this:
 
-* Privacy Pass: its status and related ideas
-* Other use cases for anonymous credentials
-* Adding metadata to anonymous credentials
-* External verifiability of anonymous credentials
+* Introduction to the meeting
+* Current uses cases of anonymous credentials
+* Discussion
 
 # Registration
 
