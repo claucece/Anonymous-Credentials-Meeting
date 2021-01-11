@@ -53,7 +53,7 @@ use for their professional work). No participant can impersonate another person.
 
 * Zoom.
 * Zulip: for setting up a channel where we can talk about anonymous credentials and
-  chatting with other participants.
+  chatting with other participants. The address is [https://acmeeting.zulipchat.com/login/](https://acmeeting.zulipchat.com/login/).
 
 ## Who This Event is Not For
 
