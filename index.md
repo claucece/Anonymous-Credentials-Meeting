@@ -21,7 +21,34 @@ organized by Steven Galbraith.
 The event will happen on Friday, 15th, at 16.00 CET (10.00 EST), just the day
 after RWC2021 ends.
 
-The event will be entirely virtual, over Zoom. The zoom link will be posted here.
+The event will be entirely virtual, over Zoom and Zulip.
+
+The zoom link is:
+
+[https://us02web.zoom.us/j/86504519970?pwd=T0tZbWswelNMQW1jREhYQUkzV3g0UT09](https://us02web.zoom.us/j/86504519970?pwd=T0tZbWswelNMQW1jREhYQUkzV3g0UT09)
+
+```
+Meeting ID: 865 0451 9970
+Passcode: 873416
+One tap mobile
++12532158782,,86504519970#,,,,*873416# US (Tacoma)
++13017158592,,86504519970#,,,,*873416# US (Washington D.C)
+
+Dial by your location
+        +1 253 215 8782 US (Tacoma)
+        +1 301 715 8592 US (Washington D.C)
+        +1 312 626 6799 US (Chicago)
+        +1 346 248 7799 US (Houston)
+        +1 669 900 6833 US (San Jose)
+        +1 929 205 6099 US (New York)
+Meeting ID: 865 0451 9970
+Passcode: 873416
+Find your local number: https://us02web.zoom.us/u/kczWZkbak
+```
+
+The zulip link is:
+
+[https://acmeeting.zulipchat.com/register/](https://acmeeting.zulipchat.com/register/)
 
 The meeting will happen for an hour.
 
@@ -51,7 +78,7 @@ use for their professional work). No participant can impersonate another person.
 
 ## What we will use
 
-* Zoom.
+* Zoom. The link is: [https://us02web.zoom.us/j/86504519970?pwd=T0tZbWswelNMQW1jREhYQUkzV3g0UT09](https://us02web.zoom.us/j/86504519970?pwd=T0tZbWswelNMQW1jREhYQUkzV3g0UT09), with the passcode: `873416`.
 * Zulip: for setting up a channel where we can talk about anonymous credentials and
   chatting with other participants. The address is [https://acmeeting.zulipchat.com/register/](https://acmeeting.zulipchat.com/register/).
 
