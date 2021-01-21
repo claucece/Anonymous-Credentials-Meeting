@@ -196,3 +196,8 @@ The blog is available [here](https://security.christmas/2020/21)
 They would like:
 
 * Public fields associated to the token
+
+## Steps to take
+
+* Create a second meeting closer to IETF110
+* Come up with a SoK for Anonymous Credentials
