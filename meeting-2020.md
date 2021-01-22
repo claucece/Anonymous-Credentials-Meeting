@@ -67,7 +67,7 @@ solve some open questions: how to model client linkability, tradeoffs between
 metadata, anonymity set size, issuer consolidation pressure, and public key
 commitment approaches.
 
-### Eli (hCaptcha): Overview of how it is used
+### Eli-Shaoul Khedouri (hCaptcha): Overview of how it is used
 
 * General verification of humanity
 * Privacy Pass for the Accessibility use case.
@@ -173,7 +173,7 @@ They would like to:
 They don't have the resources to look at it, and information is not easy to get.
 The terms are not consistent across the literature.
 
-### Gonçalo Pestana (Brave) - Brave Rewards use case
+### Gonçalo Pestana and Iñigo Querejeta (Brave) - Brave Rewards use case
 
 This is built on Privacy Pass. This is used for BAT redemption.
 The full model is on [GitHub](https://github.com/brave/brave-browser/wiki/Security-and-privacy-model-for-ad-confirmations).
