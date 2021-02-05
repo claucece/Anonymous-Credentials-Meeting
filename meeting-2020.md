@@ -11,10 +11,10 @@ for being interested by it! Here you can find some resources of it.
   slides can be found [here](https://github.com/claucece/Anonymous-Credentials-Meeting/blob/main/slides/Privacy%20Pass%20RWC%202021%20(1).pdf).
 * For 'Anonymous Credentials: hCaptcha' by Eli-Shaoul Khedouri, the
   slides can be found [here](https://github.com/claucece/Anonymous-Credentials-Meeting/blob/main/slides/hCaptcha%20-%20Anonymous%20Credentials%20Presentation%20RWC%202021%20(1).pdf).
-* For 'Anonymous Credentials and Brave' by Goçalo Pestana and Iñigo Querejeta,
-  the slides can be found [here](https://docs.google.com/presentation/d/1eB4A7vOCo-UrdQ85roo-IqfFWJZY_rvoIUt9hFuWvpc/edit#slide=id.p)
 * For 'Trust Token API' by Steven Valdez,
-  the slides can be found [here](https://docs.google.com/presentation/d/15BFZ4dNWBtOhjaR2RYNeVqke-xIdwtE63DUBpL-ry5Y/edit#slide=id.p)
+  the slides can be found [here](https://docs.google.com/presentation/d/15BFZ4dNWBtOhjaR2RYNeVqke-xIdwtE63DUBpL-ry5Y/edit#slide=id.p).
+* For 'Anonymous Credentials and Brave' by Goçalo Pestana and Iñigo Querejeta,
+  the slides can be found [here](https://docs.google.com/presentation/d/1eB4A7vOCo-UrdQ85roo-IqfFWJZY_rvoIUt9hFuWvpc/edit#slide=id.p).
 
 ## Additional resources
 
@@ -75,14 +75,14 @@ commitment approaches.
 
 In practice:
 
-* They want to rate limit users. This is about metadata, and can be done based on IPs, ...
-* One option is to use a risk score, so no Private identifiable information is leaked.
+* They want to rate limit users. This is about metadata, and can be done based on IPs...
+* One option is to use a risk score, so no private identifiable information is leaked.
 
 Security issues
 
 * Can we really provide this service without keeping metadata?
-* There are various classes of users, and we would reject PP for certain classes
-  of users
+* There are various classes of users, and we would reject Privacy Pass for
+  certain classes of users
 * Segment blinded redemption to enforce security guarantee. This is a trade off
   with privacy offered by the blinded tokens
 
@@ -91,7 +91,7 @@ Considerations
 * Don't want to maintain global double spend cache
 * We need a minimal level of security
 * How can we be efficient about key repudiation
-* Browser integration is going to be required to have a better user flow and security guarantee
+* Browser integration is going to be required to have a better user flow and security guarantees
 
 ### Steven Valdez (Google Chrome Privacy Sandbox): Trust tokens API
 
@@ -113,15 +113,13 @@ At Google
 
 Standards
 
-* Google is pushing W3C Web API.
+* Pushing W3C Web API.
 
 Comments from Michele Orru:
 
 Google (and Cloudflare) would like to get rid of the actual issuance and leave
 it to third parties. This is critical and no company has enough trust in
 external providers to do it.
-
-We have an improvement with ZKP to protect the user privacy
 
 ### Subodh Iyengar (Facebook): PrivateStats
 
@@ -150,7 +148,7 @@ In practice
 * There are not much token reuse, and this is usually the case when the user has
   poor connectivity
 * Only a small number of tokens per user, because they are linked to a private
-  key. This is practical because they have a UID
+  key. This is practical because they have a UID.
 
 New construction: AB-VOPRF
 
@@ -190,7 +188,7 @@ Two types of tokens
 
 They would like
 
-* Verifiable attribute in the Anonymous credentials
+* Verifiable attribute in the Anonymous Credentials
 * The issuer to delegate issuance to third parties (this is done by Google Trust token)
 
 ### Martin Strand (Norway Covid app) - How we use Privacy Pass
