@@ -3,7 +3,11 @@
 Hello!
 
 Thank you so much for having attended the Anonymous Credentials Meeting 2020 or
-for being interested by it! Here you can find some resources of it.
+for being interested by it!
+
+The meeting was held in January along side with [Real World Crypto 2021](https://rwc.iacr.org/2021/).
+
+Here you can find some resources of it.
 
 ## Slides
 
