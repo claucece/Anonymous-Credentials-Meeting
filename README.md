@@ -1,12 +1,9 @@
 # Welcome to the Anonymous Credentials Meeting!
 
-
 Find me on [github](https://github.com/claucece/Anonymous-Credentials-Meeting)!
 
-This is an informal meeting to be held at [Real World Crypto 2021](https://rwc.iacr.org/2021/).
-
-What is an informal meeting? It is a far-less planned meeting where people interested
-in the topic come together and discuss ideas!
+This is a workshop to be held at [PETS2021](https://www.petsymposium.org/)
+on July.
 
 What is the topic? The topic is Anonymous Credentials, a construction that
 tries to solve the problem of needing to propagate trust signals while protecting
@@ -19,25 +16,32 @@ organized by Steven Galbraith.
 
 # Information
 
-The event will be entirely virtual.
+The final date will be shared soon. It will happen in July.
+The event will be entirely virtual, over Zoom and Gather.
 
-The meeting will happen for at least 30 min but can go for as long as wanted.
+The zoom link is:
+
+The zulip link is:
+
+[https://acmeeting.zulipchat.com/register/](https://acmeeting.zulipchat.com/register/)
 
 ## Schedule
 
-There is no schedule set up in stone, but the main ideas to discuss are:
+The agenda will look like this:
 
-* Privacy Pass: its status and related ideas
-* Other use cases for anonymous credentials
-* Adding metadata to anonymous credentials
-* External verifiability of anonymous credentials.
+* Introduction to the meeting
+* Anonymous credentials and metadata
+* Anonymous credentials and post-quantum
+* Anonymous credentials and implementations
+* Discussion
 
 # Registration
 
 ## How to Register
 
 We have no idea how much demand there will be, so get in touch with us, if you
-want to participate.
+want to participate (please, ping Sofía over twitter or email -her contact can
+be found [here](https://www.sofiaceli.com/contact/)-).
 
 Participation is free; but you must read and abide by the [SNAPL Friendly Environment Policy](https://snapl.org/2015/policy.html).
 
@@ -51,7 +55,7 @@ use for their professional work). No participant can impersonate another person.
 
 * Zoom.
 * Zulip: for setting up a channel where we can talk about anonymous credentials and
-  chatting with other participants.
+  chatting with other participants. The address is [https://acmeeting.zulipchat.com/register/](https://acmeeting.zulipchat.com/register/).
 
 ## Who This Event is Not For
 
@@ -59,5 +63,6 @@ This isn't a place for people to be exclusionary or for harassment.
 
 # Organizers
 
-* Sofía Celi
-* Chris Wood
+* [Sofía Celi](https://claucece.github.io/) from Cloudflare.
+* Steven Valdez from Google.
+* [Chris Wood](https://chris-wood.github.io/) from Cloudflare.
