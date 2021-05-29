@@ -1,0 +1,96 @@
+<head>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+  <meta charset="utf-8">
+  <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+  <meta name="author" content="Sofía Celi">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="keywords" content="Anonymous Credentials, Cryptography, Workshop">
+
+  <meta property="og:title" content="Anonymous Credentials Workshop" />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://www.sofiaceli.com/Anonymous-Credentials-Meeting/" />
+
+  <meta name="twitter:site" content="@claucece" />
+  <meta name="twitter:creator" content="@claucece" />
+  <meta property="og:url" content="https://www.sofiaceli.com" />
+  <meta property="og:title" content="Anonymous Credentials Workshop" />
+  <meta property="og:description" content="Anonymous Credentials Workshop" />
+
+  <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+	<style>
+  * {
+    box-sizing: border-box;
+  }
+
+  body {
+    font-family: Helvetica;
+    font-size: 18px;
+    line-height: 1.5;
+    font-weight: 300;
+    color: black;
+    margin: 150px;
+  }
+
+  @media only screen and (max-width: 600px) {
+    body {
+      margin: 50px;
+    }
+  }
+
+  @media only screen and (max-width: 400px) {
+    body {
+      margin: 20px;
+    }
+  }
+
+  .main-box {
+    display: flex;
+	}
+
+  @media only screen and (max-width: 600px) {
+    .main-box {
+		  display: block;
+    }
+  }
+
+	.main-description {
+    display: block;
+		border: solid 5px #8364AB;
+		padding: 10px;
+		width: 100%
+	}
+
+	#main-logo {
+		padding-left: 200px;
+	  width: 60%;
+	}
+
+  @media only screen and (max-width: 600px) {
+    #main-logo {
+      visibility: hidden;
+    }
+  }
+
+  #main-title {
+    font-size: 70px;
+    font-weight: 500;
+    margin: 0;
+  }
+
+  #main-description {
+    font-size: 25px;
+    font-weight: 200;
+    margin: 0;
+  }
+
+  #main-text {
+    font-size: 25px;
+    font-weight: 200;
+    text-align: right;
+    margin: 0;
+  }
+	</style>
+  {% feed_meta %}
+</head>
