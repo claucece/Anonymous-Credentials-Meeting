@@ -65,4 +65,3 @@ This isn't a place for people to be exclusionary or for harassment.
 
 * [Sofía Celi](https://claucece.github.io/) from Cloudflare.
 * Steven Valdez from Google.
-* [Chris Wood](https://chris-wood.github.io/) from Cloudflare.
