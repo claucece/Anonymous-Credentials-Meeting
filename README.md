@@ -30,9 +30,9 @@ The zulip link is:
 The agenda will look like this:
 
 * Introduction to the meeting
-* Anonymous credentials and metadata
 * Anonymous credentials and post-quantum
 * Anonymous credentials and implementations
+* Anonymous credentials: new constructions
 * Discussion
 
 # Registration
